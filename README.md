@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **sarthaksanjaycoll21@gmail.com**
 
-<h3 align="left">Connect with me:</h3>![sharkoOP_a_coder_coding_on_computerfuturisticultra_hd_4k_dark_b_7cda9f68-efbb-4301-a8b3-4b311af6b8d4](https://user-images.githubusercontent.com/107864062/215991035-b0c146e4-af4c-40a8-a9f6-3d27a40bf82a.png)
+<h3 align="left">Connect with me:</h3>
 
-<p align="left">![coder](https://user-images.githubusercontent.com/107864062/215993329-cdc32d02-16d8-4cf4-b9d3-1551b512480b.png)
+<p align="left">
 
 <a href="https://twitter.com/sarthaksanjay01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarthaksanjay01" height="30" width="40" /></a>
 </p>
