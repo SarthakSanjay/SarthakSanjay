@@ -1,5 +1,6 @@
-<img src='https://user-images.githubusercontent.com/107864062/215993424-7fa97b97-f896-48cf-9649-421dff7fe896.png' style='width:1080px; height:512px;' />
 
+
+<img src='https://user-images.githubusercontent.com/107864062/215998834-bf4c7507-9be7-455d-a8ea-c714914e89e9.gif' style='width:100vw'/>
 
 
 <h1 align="center">Hi 👋, I'm SARTHAK SANJAY</h1>
