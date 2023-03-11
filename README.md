@@ -17,7 +17,7 @@
 
 <p align="left"> <a href="https://twitter.com/sarthaksanjay01" target="blank"><img src="https://img.shields.io/twitter/follow/sarthaksanjay01?logo=twitter&style=for-the-badge" alt="sarthaksanjay01" /></a> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **JS** & **React.js**
 
 - 📫 How to reach me **sarthaksanjaycoll21@gmail.com**
 
