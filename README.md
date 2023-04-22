@@ -8,7 +8,7 @@
 <h3 align="center">Frontend Developer</h3>
 <p align="center">Learning everyday</p>
 <p align="center">Tech enthusiast</p>
-
+<p align="center">Searching remote opportunity</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksanjay&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksanjay" /> </p>
