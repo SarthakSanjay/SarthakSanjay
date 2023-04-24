@@ -9,6 +9,7 @@
 <p align="center">Learning everyday</p>
 <p align="center">Tech enthusiast</p>
 <p align="center">Searching remote opportunity</p>
+<h1 align='center'>MERN</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksanjay&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksanjay" /> </p>
