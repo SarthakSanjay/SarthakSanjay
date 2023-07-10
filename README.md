@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm SARTHAK SANJAY</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">Fullstack MERN Developer</h3>
 <p align="center">Learning everyday</p>
 <p align="center">Tech enthusiast</p>
 <p align="center">Searching remote opportunity</p>
