@@ -15,9 +15,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksanjay&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksanjay" /> </p>
 
 
-
-<p align="left"> <a href="https://twitter.com/sarthaksanjay01" target="blank"><img src="https://img.shields.io/twitter/follow/sarthaksanjay01?logo=twitter&style=for-the-badge" alt="sarthaksanjay01" /></a> </p>
-
 - 🌱 I’m currently learning **JS** & **React.js**
 
 - 📫 How to reach me **sarthaksanjaycoll21@gmail.com**
