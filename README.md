@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm SARTHAK SANJAY</h1>
-<h3 align="center">Fullstack MERN Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthaksanjay&label=Profile%20views&color=0e75b6&style=flat" alt="sarthaksanjay" /> </p>
 
